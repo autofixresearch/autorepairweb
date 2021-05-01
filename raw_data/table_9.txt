@@ -1,4 +1,4 @@
-DEAR:
+DEAR without Hunk Detection:
 Chart_1
 Chart_9
 Chart_11
@@ -26,7 +26,8 @@ Math_70
 Math_98
 Mockito_38
 Time_7
-DEAR:
+==========
+DEAR without Expansion:
 Chart_1
 Chart_9
 Chart_11
@@ -52,7 +53,8 @@ Math_91
 Math_98
 Mockito_38
 Time_7
-DEAR:
+==========
+DEAR without Attention and Cycle Training:
 Chart_1
 Chart_9
 Chart_11

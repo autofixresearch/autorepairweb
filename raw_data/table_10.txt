@@ -1,4 +1,4 @@
-90/10
+Data Splitting 90%/10% Training/Testing:
 7
 44
 53
@@ -666,7 +666,8 @@
 44052
 44085
 44092
-80/20
+==========
+Data Splitting 80%/20% Training/Testing:
 13
 50
 53
@@ -1886,7 +1887,8 @@
 44087
 44118
 44139
-70/30
+==========
+Data Splitting 70%/30% Training/Testing:
 19
 42
 86
